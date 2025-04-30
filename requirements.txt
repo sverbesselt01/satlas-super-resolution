@@ -1,0 +1,12 @@
+basicsr==1.4.2
+lpips
+numpy==1.26.4
+scikit-image
+Pillow
+opencv_python
+kornia
+wandb
+git+https://github.com/openai/CLIP.git
+open_clip_torch
+torch==2.1.0
+torchvision==0.16.0
